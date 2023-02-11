@@ -18,12 +18,11 @@ El sitio puede ser utilizado por usuarios para buscar alojamientos y realizar re
 Nuestro objetivo es desarrollar un producto digital acorde a las funcionalidades requeridas por el cliente. Nuestra prioridad era lograr que sea responsivo, intuitivo y fácilmente de entender, para que los usuarios tengan una buena experiencia y vuelvan a visitarlo.
 <br>
 <br>
-[Link al sitio ](http://dbking.ml/home)
 
  ## Equipo 
 **(Camada 1 - Equipo 3)**
 <p>Los integrantes del equipo son:</p><br>
-<div align="center"><em><h5>Santiago Alvarez, Guido Ceriani, Ivanna Cingolani, Lenny Hornus y Andres Robledo</h5></em></div>
+<div align="center"><em><h5>Lenny Hornus, Santiago Alvarez, Guido Ceriani, Ivanna Cingolani y Andres Robledo</h5></em></div>
 <br>
 
 ---
@@ -132,12 +131,12 @@ Para comenzar a trabajar, clonar el repositorio de Gitlab:
 
 Con SSH: 
 ```
-$ git clone git@gl.deitech.online:ctd/proyecto-integrador-0522/0821-c1/grupo-03.git
+$ git clone https://github.com/LennyHornus/digitalbooking.git
 ```
 
 Con HTTPS: 
 ```
-$ git clone https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-03.git
+$ git clone https://github.com/LennyHornus/digitalbooking.git
 ```
 
 Para correr el proyecto, instale localmente las siguientes librerías:
