@@ -4,10 +4,8 @@ Proyecto Integrador CTD DH
 ## Indice
 * [El Proyecto](#proyecto)
 * [Equipo](#equipo)
-* [Metodología de Trabajo](#metodología-de-trabajo)
 * [Tecnologías Utilizadas](#tecnologías-utilizadas)
 * [Documentación Técnica del Proyecto](#documentación-técnica-del-proyecto)
-* [Documentación Técnica por Sprint](#documentación-técnica-por-sprint)
 
 
 ## El proyecto
@@ -145,11 +143,3 @@ $ cd ../proyecto/FrontEnd
 $ npm install
 $ npm start
 ```
-
-- **Workflow**
-
-[Link al Workflow](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-03/-/network/development)
-<br>
-<p>El proyecto se lleva a cabo en la rama "main". De esta rama creamos la rama "development", donde ejecutamos los test correspondientes. De ella se desprenden ramas con cada feature que se encuentra en desarrollo (las mismas están detalladas en el board de "Issues"). Una vez realizada la feature, se mergea con la rama development haciendo un Pull Request (incluyendo un mensaje descriptivo sobre el contenido del pull request). Una vez realizados los test hacemos el merge de la rama development con la rama main</p>
-
-
