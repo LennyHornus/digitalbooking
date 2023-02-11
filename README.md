@@ -23,12 +23,11 @@ Nuestro objetivo es desarrollar un producto digital acorde a las funcionalidades
  ## Equipo 
 **(Camada 1 - Equipo 3)**
 <p>Los integrantes del equipo son:</p><br>
-<div align="center"><em><h5>[Santiago Alvarez], [Guido Ceriani], [Ivanna Cingolani], [Lenny Hornus] y [Andres Robledo]</h5></em></div>
+<div align="center"><em><h5>Santiago Alvarez, Guido Ceriani, Ivanna Cingolani, Lenny Hornus y Andres Robledo</h5></em></div>
 <br>
 
 ---
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 
 ## Metodología de trabajo
 
@@ -36,11 +35,9 @@ Trabajamos con Metodologías Ágiles. Para ello nos organizamos siguiendo las ce
 A lo largo del proyecto contamos con un Scrum Master, un Product Owner y el apoyo de diferentes Tech Leads en caso que necesitáramos realizar consultas técnicas. Utilizamos el Boards de GitLab como herramienta de organización y asignación de tareas y Metro Retro para asegurarnos de mejorar como equipo de manera progresiva para asi lograr los objetivos. 
 Desde el comienzo del proyecto nos dividimos de manera clara los roles pero también establecimos solucionar en grupo aquellas dudas y features más complejas a resolver a lo largo del desarrollo.
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 
 
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 
 ## Tecnologías Utilizadas
 <ul>
@@ -124,7 +121,6 @@ Desde el comienzo del proyecto nos dividimos de manera clara los roles pero tamb
 </li>
 </ul>
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 ---
 ## Documentación Técnica del Proyecto
 
@@ -172,7 +168,6 @@ $ npm start
 
 ---
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 
 ## Documentación Técnica por Sprint
 
@@ -242,7 +237,6 @@ En este sprint usamos: <br>
   
 </ul>
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 
 ---
 
@@ -365,7 +359,6 @@ En este sprint usamos: <br>
 <li>Docker</li>  
 </ul>
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 
 ---
 
@@ -423,6 +416,5 @@ Test Runner Results:
 
 ---
 
-[<div align= "right">![keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48](uploads/25ad349b81af747887e5da348852592c/keyboard_arrow_up_FILL0_wght400_GRAD0_opsz48.png)</div>](#indice)
 
 ---
